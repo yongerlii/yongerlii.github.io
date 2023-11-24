@@ -90,7 +90,7 @@ sections:
              ![png](output_1_0.png)
     design:
       columns: '2'
-  - block: academic activities
+  - block: academic-activities
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Academic Activities
