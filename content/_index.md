@@ -69,7 +69,7 @@ sections:
           location: Shanghai
           date_start: '2022-09-20'
           date_end: ''
-          description: |2
+          description: |2-
               Responsibilities include:
 
               * Analysing
@@ -82,7 +82,10 @@ sections:
           location: Milano
           date_start: '2019-09-04'
           date_end: '2021-11-12'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+             Taught electronic engineering 
+             and researched semiconductor physics.
+             ![png](output_1_0.png)
     design:
       columns: '2'
   - block: accomplishments
