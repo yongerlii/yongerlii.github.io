@@ -62,6 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor/Postdoc
+          company: Shanghai University
+          company_url: ''
+          company_logo: SHU
+          location: Shanghai
+          date_start: '2022-09-20'
+          date_end: ''
+          description: |2
+              Responsibilities include:
+
+              * Analysing
+              * Modellin
+              * Deploying
         - title: Visiting Scholar
           company: Politechnico di Milano
           company_url: ''
@@ -69,19 +82,6 @@ sections:
           location: Milano
           date_start: '2019-09-04'
           date_end: '2021-11-12'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modellin
-              * Deploying
-        - title: Visiting Scholar
-          company: Shanghai University
-          company_url: ''
-          company_logo: SHU
-          location: Shanghai
-          date_start: '2022-09-20'
-          date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
