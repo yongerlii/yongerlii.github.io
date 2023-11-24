@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naudon Y.Li (李洋)
+title: Naudon Y.Li (李 洋)
 
 # Name pronunciation (optional)
 name_pronunciation: yongerli
