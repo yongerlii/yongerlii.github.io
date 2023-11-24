@@ -67,8 +67,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Milano
-          date_start: '2019-09'
-          date_end: '2021-11'
+          date_start: '09-2019'
+          date_end: '11-2021'
           description: |2-
               Responsibilities include:
 
@@ -80,7 +80,7 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Shanghai
-          date_start: '2022-09'
+          date_start: '09-2022'
           date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
     design:
