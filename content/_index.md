@@ -65,7 +65,7 @@ sections:
         - title: Visiting Scholar
           company: Politechnico di Milano
           company_url: ''
-          company_logo: org-gc
+          company_logo: Polimi
           location: Milano
           date_start: '2019-09-04'
           date_end: '2021-11-12'
@@ -78,7 +78,7 @@ sections:
         - title: Visiting Scholar
           company: Shanghai University
           company_url: ''
-          company_logo: org-x
+          company_logo: SHU
           location: Shanghai
           date_start: '2022-09-20'
           date_end: ''
