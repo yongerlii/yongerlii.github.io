@@ -73,7 +73,7 @@ sections:
               Responsibilities include:
 
               * Analysing
-              * Modelling
+              * Modellin
               * Deploying
         - title: Visiting Scholar
           company: Shanghai University
