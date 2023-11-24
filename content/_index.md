@@ -65,7 +65,7 @@ sections:
         - title: Visiting Scholar
           company: Politechnico di Milano
           company_url: ''
-          company_logo: Polimi
+          company_logo: org-gc
           location: Milano
           date_start: '2019-09'
           date_end: '2021-11'
@@ -76,10 +76,10 @@ sections:
               * Modelling
               * Deploying
         - title: Visiting Scholar
-          company: University X
+          company: Shanghai University
           company_url: ''
-          company_logo: SHU
-          location: SHanghai
+          company_logo: org-x
+          location: Shanghai
           date_start: '2022-09'
           date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
