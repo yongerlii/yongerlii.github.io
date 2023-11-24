@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -69,6 +69,8 @@ sections:
           location: Shanghai
           date_start: '2022-09-20'
           date_end: ''
+          design:
+            columns: '2'
           description: |2-
               Responsibilities include:
 
