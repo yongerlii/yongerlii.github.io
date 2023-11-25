@@ -118,16 +118,16 @@ sections:
               Member of Chinese Association for Artificial Intelligence (CAAI)
 
               Member of China Instrument and Control Society (CIS)
-          icon: ieee
+          icon: edx
           organization: IEEE
           organization_url: https://ieeexplore.ieee.org/Xplore/home.jsp
-          icon: caa
+          icon: edx
           organization: CAA
           organization_url: https://www.caa.org.cn/
-          icon: caai
+          icon: edx
           organization: CAAI
           organization_url: https://www.caai.cn/
-          icon: cis
+          icon: edx
           organization: CIS
           organization_url: https://http://www.cis.org.cn/
           title: Member
