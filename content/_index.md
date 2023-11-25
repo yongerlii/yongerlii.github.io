@@ -110,7 +110,9 @@ sections:
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
               * Control Systems Society Membership
-              * (Reliability Society Membership
+              * Reliability Society Membership
+
+              Member of Chinese Association of Automation (CAA)
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
