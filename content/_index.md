@@ -185,7 +185,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication/preprint
+          - publication
         exclude_featured: true
     design:
       columns: '2'
