@@ -141,7 +141,7 @@ sections:
           organization_url: #https://www.coursera.org
           title: Guset Editor
           url: ''
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: #https://www.datacamp.com
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
@@ -151,6 +151,15 @@ sections:
           organization: #DataCamp
           organization_url: #https://www.datacamp.com
           title: Conference Chair
+          url: ''
+        - certificate_url: #https://www.datacamp.com
+          date_end: ''
+          date_start: '2020-07-01'
+          description: 'IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Instrumentation and Measurement, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industrial Electronics, Sustainable Energy Grids and Networks, Mechtronics, and Asian Journal of Control, among others'
+          icon: #datacamp
+          organization: #DataCamp
+          organization_url: #https://www.datacamp.com
+          title: Reviewer
           url: ''
     design:
       columns: '2'
