@@ -124,8 +124,8 @@ sections:
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
-              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)  
-              [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/home)
+              1. [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)  
+              2. [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/home)
           icon: #edx
           organization: #edX
           organization_url: #https://www.edx.org
@@ -145,8 +145,8 @@ sections:
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
-               the 6<sup>th</sup> IEEE International Conference on Industrial Cyber-Physical Systems (2023.05)  
-               the International Conference on 6<sup>th</sup> Robotics, Control and Automation Engineering (2023.11)
+               1. the 6<sup>th</sup> IEEE International Conference on Industrial Cyber-Physical Systems (2023.05)  
+               2. the International Conference on 6<sup>th</sup> Robotics, Control and Automation Engineering (2023.11)
           icon: #datacamp
           organization: #DataCamp
           organization_url: #https://www.datacamp.com
