@@ -124,7 +124,7 @@ sections:
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
-              [Instrumentation (English edition of a Chinese core/EI journal)][http://www.instrumentationjournal.com/inst/home]
+              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)
               AI and Autonomous Systems
           icon: #edx
           organization: #edX
