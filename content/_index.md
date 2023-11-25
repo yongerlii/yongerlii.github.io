@@ -103,9 +103,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: '' #https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '' #'2021-01-25'
+          date_start: '2021-01-25'
           description: |2-
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
@@ -123,7 +123,7 @@ sections:
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: ''
-          description: |2- #Formulated informed blockchain models, hypotheses, and use cases.
+          description: |2-
               Instrumentation (English edition of a Chinese core/EI journal)  
               AI and Autonomous Systems
           icon: edx
