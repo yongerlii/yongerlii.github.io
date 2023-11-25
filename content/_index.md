@@ -145,8 +145,8 @@ sections:
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
-               the 6[^t] IEEE International Conference on Industrial Cyber-Physical Systems (2023.05)  
-               the International Conference on 6[^t] Robotics, Control and Automation Engineering (2023.11)
+               the 6<sup>th</sup> IEEE International Conference on Industrial Cyber-Physical Systems (2023.05)  
+               the International Conference on 6<sup>th</sup> Robotics, Control and Automation Engineering (2023.11)
           icon: #datacamp
           organization: #DataCamp
           organization_url: #https://www.datacamp.com
