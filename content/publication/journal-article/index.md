@@ -1,4 +1,4 @@
-<!--#注释掉了，用的时候可以删掉'<!--          -->'
+<!--#注释掉了，用的时候可以删掉
 ---
 title: "An example journal article"
 authors:
