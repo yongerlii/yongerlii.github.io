@@ -122,7 +122,7 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: null #'2020-07-01'
+          date_start: 'null' #'2020-07-01'
           description: |2-
               Instrumentation (English edition of a Chinese core/EI journal)  
               AI and Autonomous Systems
