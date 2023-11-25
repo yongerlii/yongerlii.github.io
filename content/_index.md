@@ -105,7 +105,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '-'
+          date_start: null
           description: |2-
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
@@ -122,7 +122,7 @@ sections:
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: 'null' #'2020-07-01'
+          date_start: null
           description: |2-
               Instrumentation (English edition of a Chinese core/EI journal)  
               AI and Autonomous Systems
