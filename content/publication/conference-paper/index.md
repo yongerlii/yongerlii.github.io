@@ -8,7 +8,7 @@ authors:
   - Yang Li
   - Ningyun Lu
   - Bing Jiang
-  - 'et al.'
+  - et-al.
 
 # Author notes (optional)
 author_notes:
