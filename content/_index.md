@@ -115,7 +115,7 @@ sections:
               Member of Chinese Association of Automation (CAA)  
               Member of Chinese Association for Artificial Intelligence (CAAI)  
               Member of China Instrument and Control Society (CIS)
-          icon: #coursera
+          icon: [coursera][edx]
           organization: #Coursera
           organization_url: #https://www.coursera.org
           title: Member
@@ -124,8 +124,8 @@ sections:
           date_end: ''
           date_start: '2020-07-01'
           description: |2-
-              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)
-              AI and Autonomous Systems
+              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)  
+              [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/home)
           icon: #edx
           organization: #edX
           organization_url: #https://www.edx.org
