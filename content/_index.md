@@ -93,7 +93,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Academic activities
+      title: Academic Activities
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -106,7 +106,11 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
+          description: |2-
+           Member of IEEE:
+              *Systems, Man, and Cybernetics Society Membership
+              *Control Systems Society Membership
+              *(Reliability Society Membership
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
