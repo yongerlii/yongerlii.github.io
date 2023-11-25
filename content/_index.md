@@ -113,16 +113,15 @@ sections:
               * Reliability Society Membership
 
               Member of Chinese Association of Automation (CAA)
-
               Member of Chinese Association for Artificial Intelligence (CAAI)
-
+              
               Member of China Instrument and Control Society (CIS)
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
           title: Member
           url: ''
         - certificate_url: https://www.edx.org
