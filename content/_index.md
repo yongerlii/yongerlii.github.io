@@ -104,21 +104,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-            date_end: ''
-            date_start: '2021-01-25'
-            description: |2-
-                Member of IEEE:
-                * Systems, Man, and Cybernetics Society Membership
-                * Control Systems Society Membership
-                * Reliability Society Membership
+          date_end: ''
+          date_start: '2021-01-25'
+          description: |2-
+              Member of IEEE:
+              * Systems, Man, and Cybernetics Society Membership
+              * Control Systems Society Membership
+              * Reliability Society Membership
 
-                Member of Chinese Association of Automation (CAA)  
-                Member of Chinese Association for Artificial Intelligence (CAAI)  
-                Member of China Instrument and Control Society (CIS)
+              Member of Chinese Association of Automation (CAA)  
+              Member of Chinese Association for Artificial Intelligence (CAAI)  
+              Member of China Instrument and Control Society (CIS)
           - icon: coursera
             organization: Coursera
             organization_url: https://www.coursera.org
-
           title: Member
           url: ''
         - certificate_url: https://www.edx.org
