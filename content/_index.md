@@ -92,45 +92,25 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. i.e., 'Accomplish&shy;ment'
-      title: Academic Activities
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ment'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Nov 2023
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: '' #https://www.coursera.org
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: ''
-          description: |2-
-              Member of IEEE:
-
-              *Systems, Man, and Cybernetics Society Membership
-              *Control Systems Society Membership
-              *(Reliability Society Membership
-
-              Member of Chinese Association of Automation (CAA)
-
-              Member of Chinese Association for Artificial Intelligence (CAAI)
-
-              Member of China Instrument and Control Society (CIS)
-          icon: edx
-          organization: IEEE
-          organization_url: https://ieeexplore.ieee.org/Xplore/home.jsp
-          #icon: edx
-          #organization: CAA
-          #organization_url: https://www.caa.org.cn/
-          #icon: edx
-          #organization: CAAI
-          #organization_url: https://www.caai.cn/
-          #icon: edx
-          #organization: CIS
-          #organization_url: https://http://www.cis.org.cn/
-          title: Member
+          date_start: '2021-01-25'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
