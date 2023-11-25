@@ -90,7 +90,7 @@ sections:
              ![png](output_1_0.png)
     design:
       columns: '2'
-  - block: accomplishment
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ment'
