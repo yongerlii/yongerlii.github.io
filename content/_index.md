@@ -51,8 +51,9 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experiences
     content:
-      title: Experience
+      title: Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
