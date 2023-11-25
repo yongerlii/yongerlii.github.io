@@ -13,6 +13,9 @@ main:
   - name: Academic-Activities
     url: '#activities'
     weight: 12
+  - name: Publications
+    url: '#featured'
+    weight: 13
   - name: Posts
     url: '#posts'
     weight: 20
@@ -22,9 +25,6 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
