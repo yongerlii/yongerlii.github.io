@@ -105,7 +105,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: #'2021-01-25'
           description: |2-
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
