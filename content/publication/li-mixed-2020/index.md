@@ -10,7 +10,7 @@ authors:
 date: '2020-01-01'
 publishDate: '2023-11-24T03:08:20.566785Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*IFAC-PapersOnLine*'
 doi: https://doi.org/10.1016/j.ifacol.2020.12.833
 abstract: Accelerated degradation testing (ADT) is used to efficiently assess the

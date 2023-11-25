@@ -16,11 +16,11 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2018-08-30' #'2013-07-01T00:00:00Z'
-doi: ''
+date: '2018-01-01' #'2013-07-01T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.ifacol.2018.09.559'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-10-11T00:00:00Z'
+publishDate: '2023-11-24T03:08:20.555752Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +36,12 @@ abstract: 'Islanding detection is an important issue in distributed generations 
 # Summary. An optional shortened abstract.
 summary: Islanding detection, Data fusion, Single-phase-inverter, Non-detection zone (NDZ), Pseudo islanding phenomenon (PIP). #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: #[]
+- Pseudo islanding phenomenon (PIP)
+- Data fusion
+- Islanding detection
+- Non-detection zone (NDZ)
+- Single-phase-inverter
 
 # Display this page in the Featured widget?
 featured: true
