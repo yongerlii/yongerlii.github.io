@@ -185,8 +185,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
-          - publication/conference-paper
+          - publication/journal-article
         exclude_featured: true
     design:
       columns: '2'
