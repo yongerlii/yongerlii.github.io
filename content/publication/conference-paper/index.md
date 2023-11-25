@@ -1,5 +1,5 @@
 ---
-title: 'Conference Window'
+title: 'An Islanding Fault Detection Method with CFDF-SVM Based RPV Approach under Pseudo Islanding Phenomenon'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
