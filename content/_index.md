@@ -103,9 +103,9 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: '' #https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '' #'2021-01-25'
           description: |2-
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
@@ -115,20 +115,22 @@ sections:
               Member of Chinese Association of Automation (CAA)  
               Member of Chinese Association for Artificial Intelligence (CAAI)  
               Member of China Instrument and Control Society (CIS)
-          - icon: coursera
-            organization: Coursera
-            organization_url: https://www.coursera.org
+          icon: '' #coursera
+          organization: '' #Coursera
+          organization_url: '' #https://www.coursera.org
           title: Member
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: '' # https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: ''
+          description: |2- #Formulated informed blockchain models, hypotheses, and use cases.
+              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)  
+              [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/home)
+          icon: '' #edx
+          organization: '' #edX
+          organization_url: '' #https://www.edx.org
+          title: Youth Editorial Board Member #Blockchain Fundamentals
+          url: '' #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
