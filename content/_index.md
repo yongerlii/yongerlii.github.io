@@ -103,7 +103,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: #https://www.coursera.org
+        - certificate_url: '' #https://www.coursera.org
           date_end: ''
           date_start: ''
           description: |2-
@@ -121,15 +121,15 @@ sections:
           icon: edx
           organization: IEEE
           organization_url: https://ieeexplore.ieee.org/Xplore/home.jsp
-          icon: edx
-          organization: CAA
-          organization_url: https://www.caa.org.cn/
-          icon: edx
-          organization: CAAI
-          organization_url: https://www.caai.cn/
-          icon: edx
-          organization: CIS
-          organization_url: https://http://www.cis.org.cn/
+          #icon: edx
+          #organization: CAA
+          #organization_url: https://www.caa.org.cn/
+          #icon: edx
+          #organization: CAAI
+          #organization_url: https://www.caai.cn/
+          #icon: edx
+          #organization: CIS
+          #organization_url: https://http://www.cis.org.cn/
           title: Member
           url: ''
         - certificate_url: https://www.edx.org
