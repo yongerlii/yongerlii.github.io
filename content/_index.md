@@ -135,7 +135,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: datacamp
+          icon: (datacamp)
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
