@@ -115,8 +115,8 @@ sections:
               Member of Chinese Association of Automation (CAA)  
               Member of Chinese Association for Artificial Intelligence (CAAI)  
               Member of China Instrument and Control Society (CIS)
-          icon1: coursera
-          icon2: edx
+          - icon: coursera
+          - icon: edx
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Member
