@@ -115,22 +115,22 @@ sections:
               Member of Chinese Association of Automation (CAA)  
               Member of Chinese Association for Artificial Intelligence (CAAI)  
               Member of China Instrument and Control Society (CIS)
-          icon: '' #coursera
-          organization: '' #Coursera
-          organization_url: '' #https://www.coursera.org
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
           title: Member
           url: ''
-        - certificate_url: '' # https://www.edx.org
+        - certificate_url: https://www.edx.org
           date_end: ''
           date_start: ''
           description: |2- #Formulated informed blockchain models, hypotheses, and use cases.
               Instrumentation (English edition of a Chinese core/EI journal)  
               AI and Autonomous Systems
-          icon: '' #edx
-          organization: '' #edX
-          organization_url: '' #https://www.edx.org
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
           title: Youth Editorial Board Member #Blockchain Fundamentals
-          url: '' #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
