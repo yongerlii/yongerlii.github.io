@@ -112,7 +112,8 @@ sections:
               * Control Systems Society Membership
               * Reliability Society Membership
 
-              Member of Chinese Association of Automation (CAA)    Member of Chinese Association for Artificial Intelligence (CAAI)
+              Member of Chinese Association of Automation (CAA)  
+              Member of Chinese Association for Artificial Intelligence (CAAI)
 
               -Member of China Instrument and Control Society (CIS)
           icon: coursera
