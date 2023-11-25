@@ -10,7 +10,7 @@ authors:
 date: '2018-01-01'
 publishDate: '2023-11-24T03:08:20.555752Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*IFAC-PapersOnLine*'
 doi: https://doi.org/10.1016/j.ifacol.2018.09.559
 abstract: 'Islanding detection is an important issue in distributed generations (DGs)

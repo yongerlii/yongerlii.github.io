@@ -8,7 +8,8 @@ authors:
   - Yang Li
   - Ningyun Lu
   - Bing Jiang
-  - et-al.
+  - Yajie Ma
+  - Xiuli Wang
 
 # Author notes (optional)
 author_notes:
