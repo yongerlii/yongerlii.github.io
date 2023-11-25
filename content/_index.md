@@ -86,7 +86,7 @@ sections:
           date_end: '2021-11-12'
           description: |2-
              Taught electronic engineering 
-             and researched semiconductor physics.
+             * and researched semiconductor physics.
              ![png](output_1_0.png)
     design:
       columns: '2'
@@ -107,10 +107,10 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: |2-
-           Member of IEEE:
-              *Systems, Man, and Cybernetics Society Membership
-              *Control Systems Society Membership
-              *(Reliability Society Membership
+              Member of IEEE:
+              * Systems, Man, and Cybernetics Society Membership
+              * Control Systems Society Membership
+              * (Reliability Society Membership
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
