@@ -124,8 +124,8 @@ sections:
           date_end: ''
           date_start: ''
           description: |2- #Formulated informed blockchain models, hypotheses, and use cases.
-              [Instrumentation (English edition of a Chinese core/EI journal)](http://www.instrumentationjournal.com/inst/home)  
-              [AI and Autonomous Systems](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/home)
+              Instrumentation (English edition of a Chinese core/EI journal)  
+              AI and Autonomous Systems
           icon: '' #edx
           organization: '' #edX
           organization_url: '' #https://www.edx.org
