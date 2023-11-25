@@ -131,14 +131,26 @@ sections:
           organization_url: #https://www.edx.org
           title: Youth Editorial Board Member #Blockchain Fundamentals
           url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
+        - certificate_url: ''
+          date_end: ''
           date_start: '2020-07-01'
-          description: ''
-          icon: [datacamp]
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          description: |2-
+              [Machines (SCI index)](https://www.mdpi.com/journal/machines)
+          icon: ''
+          organization: #Coursera
+          organization_url: #https://www.coursera.org
+          title: Guset Editor
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: ''
+          date_start: '2020-07-01'
+          description: |2-
+               6^(th) IEEE International Conference on Industrial Cyber-Physical Systems (2023.05)  
+               the International Conference on 6^(th) Robotics, Control and Automation Engineering (2023.11)
+          icon: #datacamp
+          organization: #DataCamp
+          organization_url: #https://www.datacamp.com
+          title: Conference Chair
           url: ''
     design:
       columns: '2'
