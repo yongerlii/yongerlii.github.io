@@ -105,7 +105,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: null
+          date_start: '2020-07-01'
           description: |2-
               Member of IEEE:
               * Systems, Man, and Cybernetics Society Membership
@@ -120,17 +120,17 @@ sections:
           organization_url: #https://www.coursera.org
           title: Member
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: #https://www.edx.org
           date_end: ''
-          date_start: null
+          date_start: '2020-07-01'
           description: |2-
-              Instrumentation (English edition of a Chinese core/EI journal)  
+              [Instrumentation (English edition of a Chinese core/EI journal)][http://www.instrumentationjournal.com/inst/home]
               AI and Autonomous Systems
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          icon: #edx
+          organization: #edX
+          organization_url: #https://www.edx.org
           title: Youth Editorial Board Member #Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: #https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
@@ -299,3 +299,4 @@ sections:
 
 
 [def]: https://www.coursera.org
+[def2]: http://www.instrumentationjournal.com/inst/home
