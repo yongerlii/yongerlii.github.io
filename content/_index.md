@@ -72,12 +72,12 @@ sections:
           date_end: ''
           design:
             columns: '2'
-          description: |2-
-              Responsibilities include:
+          description: '' #|2-
+              #Responsibilities include:
 
-              * Analysing
-              * Modellin
-              * Deploying
+              #* Analysing
+              #* Modellin
+              #* Deploying
         - title: Visiting Scholar
           company: Politechnico di Milano
           company_url: ''
@@ -85,10 +85,10 @@ sections:
           location: Milano
           date_start: '2019-09-04'
           date_end: '2021-11-12'
-          description: |2-
-             Taught electronic engineering 
-             * and researched semiconductor physics.
-             ![png](output_1_0.png)
+          description: '' #|2-
+             #Taught electronic engineering 
+             #* and researched semiconductor physics.
+             #![png](output_1_0.png)
     design:
       columns: '2'
   - block: accomplishments
@@ -185,7 +185,21 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication\conference-paper
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    content:
+      title: Patents
+      text: '' #|-
+        #{{% callout note %}}
+        #Quickly discover relevant content by [filtering publications](./publication/).
+        #{{% /callout %}}
+      filters:
+        folders:
+          - patent
         exclude_featured: true
     design:
       columns: '2'
