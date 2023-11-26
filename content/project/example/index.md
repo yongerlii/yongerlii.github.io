@@ -9,7 +9,7 @@ date: '2023-11-26T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Vertical Research
   focal_point: Smart
 
 links:
