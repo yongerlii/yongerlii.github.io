@@ -10,4 +10,5 @@ publication_types:
 - patent
 date: '2018-06-12'
 publishDate: '2023-11-26T08:15:27.540336Z'
+abstract: '蔡彬, 褚晓广, <strong>李洋</strong>. 一种磁悬浮系统起浮和降落过程的控制方法. 专利号: CN201510986756.2, 授权号: CN105549393A.'
 ---
