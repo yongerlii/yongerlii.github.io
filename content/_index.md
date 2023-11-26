@@ -222,9 +222,9 @@ sections:
         - name: All
           tag: '*'
         - name: Vertical Research Project
-          tag: ''
+          tag: 'Vertical Research Project'
         - name: Horizontal Research Project
-          tag: ''
+          tag: 'Horizontal Research Project'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
