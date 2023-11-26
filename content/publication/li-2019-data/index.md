@@ -6,8 +6,9 @@ authors:
 - Xiuli Wang
 - Ningyun Lu
 - Bin Jiang
-date: '2020-05-15'
-publishDate: '2023-11-26T08:15:27.525709Z'
+publication_number: 'CN201911189108.9'
 publication_types:
 - patent
+date: '2020-05-15'
+publishDate: '2023-11-26T08:15:27.525709Z'
 ---
