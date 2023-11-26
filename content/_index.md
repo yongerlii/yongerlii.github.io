@@ -221,10 +221,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Vertical Research Project
+          tag: ''
+        - name: Horizontal Research Project
+          tag: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
