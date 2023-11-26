@@ -1,8 +1,8 @@
 ---
 title: Vertical Research Project
-summary: A study or research endeavor that delves deeply into a specific subject or field, exploring it comprehensively and often over an extended period. This type of project aims to advance knowledge within a particular domain by conducting in-depth research, experiments, and analyses.
+summary: refers to a study or research endeavor that delves deeply into a specific subject or field, exploring it comprehensively and often over an extended period. This type of project aims to advance knowledge within a particular domain by conducting in-depth research, experiments, and analyses.
 tags:
-  #- Deep Learning
+  - Vertical Research Project
 date: '2023-11-26T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
