@@ -5,7 +5,7 @@ authors:
 - Bin Cai
 - Xiaoguang Chu
 - Yang Li
-publication_number: 'CN201510986756.2'
+publication: '*CN201510986756.2*'
 publication_types:
 - patent
 date: '2018-06-12'

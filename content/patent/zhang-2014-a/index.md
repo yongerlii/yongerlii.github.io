@@ -9,7 +9,7 @@ authors:
 - Lihui Lu
 - Huajian Wang
 - Haijuan Zhao
-publication_number: 'CN201410846773.1'
+publication: '*CN201410846773.1*'
 publication_types:
 - patent
 date: '2016-02-03'
