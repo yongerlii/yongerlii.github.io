@@ -4,7 +4,7 @@ title: A control method for the levitation and landing process of a magnetic lev
 authors:
 - Bin Cai
 - Xiaoguang Chu
-- &lt;strong&gt;Yang Li&lt;/strong&gt;
+- Yang Li
 publication: '*CN201510986756.2*'
 publication_types:
 - patent
