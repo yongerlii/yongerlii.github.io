@@ -1,5 +1,5 @@
 ---
-title: Upcoming Talk
+title: 'Upcoming Talk: Design of Testability (DOT) and Prognostics Health Management (PHM)'
 
 event: Upcoming Conference
 event_url: #https://example.org
