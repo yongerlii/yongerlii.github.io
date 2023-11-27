@@ -36,4 +36,4 @@ The notebooks will be published to the folder you specify above. In this case, t
 -->
 
 ## **Project**
-This `link` will direct you to the research conducted by the Design of Testability (DoT).
+- 👉 This `link` will direct you to the research conducted by the Design of Testability (DoT).

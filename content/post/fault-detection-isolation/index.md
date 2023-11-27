@@ -28,24 +28,32 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
+#authors:
+  #- admin
+  #- 吳恩達
 
-tags:
-  - Academic
-  - 开源
 
-categories:
-  - Demo
-  - 教程
+#tags:
+  #- Academic
+  #- 开源
+
+#categories:
+  #- Demo
+  #- 教程
+
 ---
-
+<!---
 ```python
 import libr
 print('hello')
 ```
+-->
+```python
+print("Welcome to Fault Detection and Isolation (FDI)!")
+```
 
+    Welcome to Fault Detection and Isolation (FDI)!
+<!--
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -53,7 +61,13 @@ print('hello')
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 [![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
+-->
 
+## **Introduction**
+The process of using various inspection and testing methods to identify whether there are faults in systems and equipment is known as fault detection. Further pinpointing the approximate location of the fault is termed fault localization. The process of localizing the fault to the replaceable product level (replaceable unit) when implementing repairs is referred to as fault isolation. Fault diagnosis refers to the combined process of fault detection and fault isolation.
+
+
+<!---
 ## Get Started
 
 - 👉 [**Create a new site**](https://hugoblox.com/templates/)
@@ -108,3 +122,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+--->
+
+## **Project**
+- 👉 Clicking this `link` will take you to the research on Fault Detection and Isolation (FDI).
