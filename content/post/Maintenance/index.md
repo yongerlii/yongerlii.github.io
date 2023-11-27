@@ -3,7 +3,7 @@ title: Intelligent Maintenance #Writing technical content in Markdown
 subtitle: ''
 summary: Welcome 👋 to this research area.
 projects: []
-date: 2019-08-12
+date: 2023-11-24
 math: true
 image:
   placement: 2

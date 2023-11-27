@@ -3,7 +3,7 @@ title: Lifetime Analysis/Remaining Useful Life (RUL) Analysis #Writing technical
 subtitle: ''
 summary: Welcome 👋 to this research area.
 projects: []
-date: 2019-07-12
+date: 2023-11-25
 math: true
 image:
   placement: 2
