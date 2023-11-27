@@ -11,16 +11,16 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ```
 
     
-![png](output_1_0.png)
+![png](DoT.png)
     
 
 ```python
-print("Welcome to Academic!")
+print("Welcome to Design of Testability (DoT)!")
 ```
 
-    Welcome to Academic!
+    Welcome to Design of Testability (DoT)!
 
-## Introduction
+## **Introduction**
 Design of Testability (DoT), based on reliability testing, is a design characteristic performed during the product design phase to determine the operational status of systems and devices and to isolate internal faults. It is an important leading-edge technology for improving system reliability, maintainability, safety, and security, directly impacting fault detection rates, isolation rates, and the maintenance (testing) costs of the system.
 
 <!--Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
@@ -35,5 +35,5 @@ academic import 'notebooks/**.ipynb' content/post/ --verbose
 The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
 -->
 
-## Project
-This 'link' will direct you to the research conducted by the Design of Testability (DoT).
+## **Project**
+This `link` will direct you to the research conducted by the Design of Testability (DoT).
