@@ -1,12 +1,13 @@
 ---
-title: Writing technical content in Markdown
+title: Lifetime Analysis/Remaining Useful Life (RUL) Analysis #Writing technical content in Markdown
 date: 2019-07-12
 math: true
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: '**Lifetime/RUL Analysis**'  #'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
+<!--
 Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
@@ -171,28 +172,31 @@ $$
 
 {{< /math >}}
 
+
+
+
 ### Diagrams
 
 Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
 
-An example **flowchart**:
+An example **flowchart**:              
 
     ```mermaid
     graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
+    A[Hard] --<>|Text| B(Round)          #注意此处多了个<>符号，但其实只要后半部分，否则无法进行大段注释，如需要需要进行修改。同下
+    B --<> C{Decision}
+    C --<>|One| D[Result 1]
+    C --<>|Two| E[Result 2]
     ```
 
 renders as
 
 ```mermaid
 graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[Hard] --<>|Text| B(Round)
+B --<> C{Decision}
+C --<>|One| D[Result 1]
+C --<>|Two| E[Result 2]
 ```
 
 An example **sequence diagram**:
@@ -204,9 +208,9 @@ An example **sequence diagram**:
         John->>John: Fight against hypochondria
     end
     Note right of John: Rational thoughts!
-    John-->>Alice: Great!
+    John--<>>Alice: Great!
     John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+    Bob--<>>John: Jolly good!            #此处多了一个<>的前半部分，如需要进行修改，同下
     ```
 
 renders as
@@ -218,9 +222,9 @@ loop Healthcheck
     John->>John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
-John-->>Alice: Great!
+John--<>>>Alice: Great!
 John->>Bob: How about you?
-Bob-->>John: Jolly good!
+Bob--<>>John: Jolly good!
 ```
 
 An example **Gantt diagram**:
@@ -257,7 +261,7 @@ An example **class diagram**:
     Class03 *-- Class04
     Class05 o-- Class06
     Class07 .. Class08
-    Class09 --> C2 : Where am i?
+    Class09 --<> C2 : Where am i?           #此处需要修改符号
     Class09 --* C3
     Class09 --|> Class07
     Class07 : equals()
@@ -265,7 +269,7 @@ An example **class diagram**:
     Class01 : size()
     Class01 : int chimp
     Class01 : int gorilla
-    Class08 <--> C2: Cool label
+    Class08 <--<> C2: Cool label          #此处需要把三个---后面的删掉
     ```
 
 renders as
@@ -276,7 +280,7 @@ Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
 Class05 o-- Class06
 Class07 .. Class08
-Class09 --> C2 : Where am i?
+Class09 --<> C2 : Where am i?                #此处
 Class09 --* C3
 Class09 --|> Class07
 Class07 : equals()
@@ -284,31 +288,31 @@ Class07 : Object[] elementData
 Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
-Class08 <--> C2: Cool label
+Class08 <--<>> C2: Cool label                      #此处
 ```
 
 An example **state diagram**:
 
     ```mermaid
     stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
+    [*] --<> Still                                  #此处
+    Still --<> [*]
+    Still --<> Moving
+    Moving --<> Still
+    Moving --<> Crash
+    Crash --<> [*]
     ```
 
 renders as
 
 ```mermaid
 stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
+[*] --<> Still                                      #此处
+Still --<> [*]
+Still --<> Moving
+Moving --<> Still
+Moving --<> Crash
+Crash --<> [*]
 ```
 
 ### Todo lists
@@ -388,3 +392,29 @@ renders as
 {{< icon name="r-project" pack="fab" >}} R
 
 ### Did you find this page helpful? Consider sharing it 🙌
+-->
+
+##**Introduction**
+- 💡 **Lifetime**--refers to the entire life-cycle of a system from its start of operation until failure.
+- 💡 **Remaining Useful Life (RUL)**--refers to the remaining life-cycle of a system after it has been in operation for a certain period.  
+Accurately predicting the lifetime and remaining useful life (RUL) of a system can significantly reduce losses caused by system failures and enhance the operational reliability of the system.
+
+**Categories** of Lifetime/RUL Analysis Methods:
+```markmap
+- Lifetime/RUL Analysis
+  - Data-driven based
+    - Artificial Intelligence (AI)
+    - Statistical Methods
+    - ...
+  - Physical-model based
+    - Failure mechanism
+    - System modeling
+    - ...
+  - Mixed (Mechanism-Data) based
+    - Data-(parameter tuning)-Model
+    - Data-(fusion)-Model
+    - ...
+```
+
+## **Project**
+- 👉 This `link` will bring you into the area of Lifetime Analysis/Remaining Useful Life (RUL) Analysis.
