@@ -394,7 +394,7 @@ renders as
 ### Did you find this page helpful? Consider sharing it 🙌
 -->
 
-##**Introduction**
+## **Introduction**
 - 💡 **Lifetime**--refers to the entire life-cycle of a system from its start of operation until failure.
 - 💡 **Remaining Useful Life (RUL)**--refers to the remaining life-cycle of a system after it has been in operation for a certain period.  
 Accurately predicting the lifetime and remaining useful life (RUL) of a system can significantly reduce losses caused by system failures and enhance the operational reliability of the system.
