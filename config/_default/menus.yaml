@@ -28,7 +28,7 @@ main:
     url: '#posts'
     weight: 20
 
-  - name: Talks
+  - name: Seminar
     url: '#talks'
     weight: 40
 

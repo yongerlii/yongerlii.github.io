@@ -261,7 +261,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Seminar
       filters:
         folders:
           - event
