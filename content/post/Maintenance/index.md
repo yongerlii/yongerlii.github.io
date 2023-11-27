@@ -35,4 +35,4 @@ Intelligent Maintenance refers to maintenance strategies or methodologies that u
 ```
 
 ## **Project**
-- 👉 If you want to get involved in this field， please click this `[link](https://github.com/yongerlii/Intelligent-Maintenance)` for **Intelligent Maintenance**.
+- 👉 If you want to get involved in this field， please click this [link](https://github.com/yongerlii/Intelligent-Maintenance) for **Intelligent Maintenance**.

@@ -420,4 +420,4 @@ Accurately predicting the lifetime and remaining useful life (RUL) of a system c
 ```
 
 ## **Project**
-- 👉 This `[link](https://github.com/yongerlii/Lifetime-and-Remaining-Useful-Life-Analysis)` will bring you into the area of **Lifetime Analysis/Remaining Useful Life (RUL) Analysis**.
+- 👉 This [link](https://github.com/yongerlii/Lifetime-and-Remaining-Useful-Life-Analysis) will bring you into the area of **Lifetime Analysis/Remaining Useful Life (RUL) Analysis**.
