@@ -411,8 +411,8 @@ Accurately predicting the lifetime and remaining useful life (RUL) of a system c
     - System modeling
     - ...
   - Mixed (Mechanism-Data) based
-    - Data-(parameter tuning)-Model
-    - Data-(fusion)-Model
+    - Data-(**parameter tuning**)-Model
+    - Data-(**fusion**)-Model
     - ...
 ```
 
