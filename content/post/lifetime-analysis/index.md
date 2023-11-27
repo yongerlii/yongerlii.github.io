@@ -1,5 +1,8 @@
 ---
 title: Lifetime Analysis/Remaining Useful Life (RUL) Analysis #Writing technical content in Markdown
+subtitle: ''
+summary: Welcome 👋 to this research area.
+projects: []
 date: 2019-07-12
 math: true
 image:
@@ -417,4 +420,4 @@ Accurately predicting the lifetime and remaining useful life (RUL) of a system c
 ```
 
 ## **Project**
-- 👉 This `link` will bring you into the area of Lifetime Analysis/Remaining Useful Life (RUL) Analysis.
+- 👉 This `link` will bring you into the area of **Lifetime Analysis/Remaining Useful Life (RUL) Analysis**.

@@ -1,5 +1,8 @@
 ---
 title: Intelligent Maintenance #Writing technical content in Markdown
+subtitle: ''
+summary: Welcome 👋 to this research area.
+projects: []
 date: 2019-08-12
 math: true
 image:
@@ -7,7 +10,11 @@ image:
   caption: '**Intelligent Maintenance**'  #'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
+```python
+print("Welcome to Intelligent Maintenance!")
+```
 
+    Welcome to Intelligent Maintenance!
 
 ## **Introduction**
 Intelligent Maintenance refers to maintenance strategies or methodologies that utilize artificial intelligence, machine learning, or advanced data analytics to optimize and enhance maintenance processes. This approach often involves predictive maintenance techniques that leverage data-driven insights to predict equipment failures, schedule maintenance when necessary, and optimize the overall maintenance strategy to reduce downtime and improve efficiency.

@@ -125,4 +125,4 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/mast
 --->
 
 ## **Project**
-- 👉 Clicking this `link` will take you to the research on Fault Detection and Isolation (FDI).
+- 👉 Clicking this `link` will take you to the research on **Fault Detection and Isolation (FDI)**.
