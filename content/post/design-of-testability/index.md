@@ -1,15 +1,15 @@
 ---
 title: Design of Testability (DoT) #Blog with Jupyter Notebooks!
 date: '2023-11-04'
-summary: Welcome to this research #Easily blog from Jupyter notebooks!
+summary: Welcome 👋 to this research area. #Easily blog from Jupyter notebooks!
 ---
 
-
+<!--
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
-
+-->
     
 ![png](DoT.png)
     
